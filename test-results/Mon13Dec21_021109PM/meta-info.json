@@ -1,0 +1,13 @@
+{
+  "name": "mobileIntegration",
+  "status": "pass",
+  "tests": [
+    "MobileIntegration/MobileIntegrationTest"
+  ],
+  "total": 1,
+  "pass": 1,
+  "fail": 0,
+  "skip": 0,
+  "startTime": 1639422669894,
+  "endTime": 1639422689952
+}

@@ -1,0 +1,13 @@
+{
+  "name": "nikeIntegration",
+  "status": "pass",
+  "tests": [
+    "NikeIntegration/IntegrationTest"
+  ],
+  "total": 2,
+  "pass": 2,
+  "fail": 0,
+  "skip": 0,
+  "startTime": 1639422235159,
+  "endTime": 1639422249257
+}

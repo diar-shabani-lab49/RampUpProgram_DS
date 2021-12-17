@@ -1,0 +1,13 @@
+{
+  "name": "Default Suite",
+  "status": "pass",
+  "tests": [
+    "DefaultSuite/RampUpProgram"
+  ],
+  "total": 1,
+  "pass": 1,
+  "fail": 0,
+  "skip": 0,
+  "startTime": 1639665406611,
+  "endTime": 1639665415544
+}

@@ -1,0 +1,22 @@
+{
+  "methods": [
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "description": null,
+        "name": "clickKyrie",
+        "resultFileName": "ClickKyrie",
+        "sign": "nikeTC_02.clickKyrie()[pri:0, instance:nike_webdriver.nikeTC_02@3d680b5a]"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1639422035355,
+      "duration": 0,
+      "result": "skip",
+      "passPer": 0.0
+    }
+  ]
+}

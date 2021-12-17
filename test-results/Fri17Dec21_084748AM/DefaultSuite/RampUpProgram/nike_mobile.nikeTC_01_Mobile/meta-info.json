@@ -1,0 +1,22 @@
+{
+  "methods": [
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "description": null,
+        "name": "testOne",
+        "resultFileName": "TestOne",
+        "sign": "nikeTC_01_Mobile.testOne()[pri:0, instance:nike_mobile.nikeTC_01_Mobile@6a28ffa4]"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1639748868409,
+      "duration": 19350,
+      "result": "pass",
+      "passPer": 0.0
+    }
+  ]
+}

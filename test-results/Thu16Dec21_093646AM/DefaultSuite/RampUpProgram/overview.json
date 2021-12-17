@@ -1,0 +1,30 @@
+{
+  "total": 1,
+  "pass": 1,
+  "fail": 0,
+  "skip": 0,
+  "classes": [
+    "nike_webdriver.nikeTC_01"
+  ],
+  "envInfo": {
+    "isfw-build-info": {
+      "qaf-Type": "core",
+      "qaf-Revision": "0b",
+      "qaf-Build-Time": "24-Oct-2021 19:53:30",
+      "qaf-Version": "3.1"
+    },
+    "run-parameters": {},
+    "execution-env-info": {
+      "java.arch": "64",
+      "java.vendor": "Oracle Corporation",
+      "java.version": "16.0.1",
+      "os.arch": "amd64",
+      "host": "DESKTOP-0IEFG9R",
+      "os.name": "Windows 10",
+      "user.name": "Diar",
+      "os.version": "10.0"
+    }
+  },
+  "startTime": 1639665406611,
+  "endTime": 1639665415544
+}

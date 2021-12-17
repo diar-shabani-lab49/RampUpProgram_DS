@@ -1,0 +1,69 @@
+{
+  "reports": [
+    {
+      "name": "Default Suite",
+      "dir": "test-results/Fri17Dec21_085746AM",
+      "startTime": 1639749457336
+    },
+    {
+      "name": "Default Suite",
+      "dir": "test-results/Fri17Dec21_085652AM",
+      "startTime": 1639749403497
+    },
+    {
+      "name": "Default Suite",
+      "dir": "test-results/Fri17Dec21_085618AM",
+      "startTime": 1639749369613
+    },
+    {
+      "name": "Default Suite",
+      "dir": "test-results/Fri17Dec21_084854AM",
+      "startTime": 1639748925538
+    },
+    {
+      "name": "Default Suite",
+      "dir": "test-results/Fri17Dec21_084748AM",
+      "startTime": 1639748841908
+    },
+    {
+      "name": "nikeIntegration",
+      "dir": "test-results/Thu16Dec21_094212AM",
+      "startTime": 1639665731452
+    },
+    {
+      "name": "nikeIntegration",
+      "dir": "test-results/Thu16Dec21_093748AM",
+      "startTime": 1639665467968
+    },
+    {
+      "name": "Default Suite",
+      "dir": "test-results/Thu16Dec21_093735AM",
+      "startTime": 1639665454571
+    },
+    {
+      "name": "Default Suite",
+      "dir": "test-results/Thu16Dec21_093720AM",
+      "startTime": 1639665439585
+    },
+    {
+      "name": "Default Suite",
+      "dir": "test-results/Thu16Dec21_093646AM",
+      "startTime": 1639665405396
+    },
+    {
+      "name": "mobileIntegration",
+      "dir": "test-results/Mon13Dec21_021109PM",
+      "startTime": 1639422659737
+    },
+    {
+      "name": "nikeIntegration",
+      "dir": "test-results/Mon13Dec21_020355PM",
+      "startTime": 1639422234259
+    },
+    {
+      "name": "nikeIntegration",
+      "dir": "test-results/Mon13Dec21_020035PM",
+      "startTime": 1639422033893
+    }
+  ]
+}
